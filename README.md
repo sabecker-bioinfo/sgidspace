@@ -1,6 +1,9 @@
 
 # Synthetic Genomics D-SPACE Public Library
 
+## Scott Becker's Principal Contribution
+My major responsibility was the training process. The DNN archictecture and frameworks were in place prior to 2018 when I did my part.
+
 ## Demo site
 A public demo of the D-SPACE annotation and search capabilities is available here https://dspace.bio/.
 
